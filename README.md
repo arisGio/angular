@@ -46,3 +46,8 @@ basic building blocks
 
 - in order to display dynamic data in a template
 - for more details check <a href="https://angular.io/guide/interpolation">HERE</a>
+
+# \*ngFor
+
+- use this directive in templates in order to display dynamically repeated data in a template
+- for more details check <a href="https://angular.io/guide/built-in-directives#ngFor">HERE</a>
