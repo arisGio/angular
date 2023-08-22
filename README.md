@@ -67,3 +67,15 @@ Dependency injection is the mechanism that manages the dependencies of an app's 
 Routing is the ability to navigate from one component in the application to another. In <a href="https://angular.io/guide/router-tutorial#using-angular-routes-in-a-single-page-application">Single Page Applications (SPA)</a>, only parts of the page are updated to represent the requested view for the user.
 
 The <a href="https://angular.io/guide/router-tutorial">Angular Router</a> enables users to declare routes and specify which component should be displayed on the screen if that route is requested by the application.
+
+# Routing with route parameters
+
+- Route parameters enable you to include dynamic information as a part of your route URL.
+- For example you can use an id as parameter, as in this tutorial.
+- use route parameters to pass data to a route
+- use routerLink directive to use dynamic data to create a route
+- use route parameter to retrieve data from a service to display specific information to UI
+
+# ? optional chaining operator
+
+if value is null or undefined the app does not crash
