@@ -1,4 +1,4 @@
-# angular
+# angular tutorial 3 hours long
 
 Hands-on tutorials based on official documentation of Angular.
 
