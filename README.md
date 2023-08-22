@@ -102,3 +102,20 @@ if value is null or undefined the app does not crash
 # template reference variable
 
 - use a <a href="https://angular.io/guide/template-reference-variables">template reference variable</a> to get access to the HTML element as its value
+
+# HTTP communication
+
+- use a JSON server that your app will communicate with over HTTP
+- the HTTP request will simulate the experience of working with data from a server
+
+<code>npm install -g json-server</code>
+
+flag -g helps you by running the latter command from every directory you are in
+
+<code>json-server --watch db.json</code>
+
+- in your web browser, navigate to http://localhost:3000/locations
+
+# fetch()
+
+- for more advanced use cases consider using HttpClient provided by Angular
