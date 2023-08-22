@@ -36,3 +36,8 @@ basic building blocks
 # ! non-null assertion operator
 
 - value of this property won't be null or undefined
+
+# Property binding
+
+- adding property binding to a template and use it to pass dynamic data to components
+- for more details check <a href="https://angular.io/guide/property-binding">HERE</a>
