@@ -41,3 +41,8 @@ basic building blocks
 
 - adding property binding to a template and use it to pass dynamic data to components
 - for more details check <a href="https://angular.io/guide/property-binding">HERE</a>
+
+# Interpolation
+
+- in order to display dynamic data in a template
+- for more details check <a href="https://angular.io/guide/interpolation">HERE</a>

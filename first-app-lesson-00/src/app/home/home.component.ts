@@ -17,7 +17,6 @@ import { HousingLocationComponent } from '../housing-location/housing-location.c
     <section class="results">
       <app-housing-location
         [housingLocation]="housingLocation"
-        ]
       ></app-housing-location>
     </section>
   `,
