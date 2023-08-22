@@ -51,3 +51,13 @@ basic building blocks
 
 - use this directive in templates in order to display dynamically repeated data in a template
 - for more details check <a href="https://angular.io/guide/built-in-directives#ngFor">HERE</a>
+
+# Angular services
+
+Angular services provide a way for you to separate Angular app data and functions that can be used by multiple components in your app. To be used by multiple components, a service must be made injectable. Services that are injectable and used by a component become dependencies of that component. The component depends on those services and can't function without them.
+
+# Dependency injection
+
+Dependency injection is the mechanism that manages the dependencies of an app's components and the services that other components can use.
+
+<code>ng generate service housing --skip-tests</code>
