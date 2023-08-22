@@ -26,3 +26,13 @@ basic building blocks
 - you can define properties that represent data about some component for example
 
 <code>ng generate interface housingLocation</code>
+
+# @Input()
+
+- inputs allow components to share data
+- direction of data sharing is from parent component to child component
+- for more details check <a href="https://angular.io/guide/inputs-outputs">HERE</a>
+
+# ! non-null assertion operator
+
+- value of this property won't be null or undefined
