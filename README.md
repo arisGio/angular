@@ -79,3 +79,18 @@ The <a href="https://angular.io/guide/router-tutorial">Angular Router</a> enable
 # ? optional chaining operator
 
 if value is null or undefined the app does not crash
+
+# Forms
+
+- to collect user data
+- after data collecting they are sent to a service of the app
+- then service writes data to somewhere else, in this example it writes them to the browser's console log
+
+# ?? nullish coalescing operator
+
+- to assign default values if values in null
+
+# Event binding
+
+- Angular uses parentheses syntax around the event name to define events in the template code.
+- You can bind to browser events and custom events
