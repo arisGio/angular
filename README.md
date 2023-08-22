@@ -2,6 +2,8 @@
 
 Hands-on tutorials based on official documentation of Angular.
 
+To check the tutorial click <a href="https://angular.io/tutorial/first-app">HERE</a>.
+
 <code>node --version</code>
 
 <code>sudo npm install -g @angular/cli</code>
