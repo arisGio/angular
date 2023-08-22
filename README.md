@@ -61,3 +61,9 @@ Angular services provide a way for you to separate Angular app data and function
 Dependency injection is the mechanism that manages the dependencies of an app's components and the services that other components can use.
 
 <code>ng generate service housing --skip-tests</code>
+
+# Routing
+
+Routing is the ability to navigate from one component in the application to another. In <a href="https://angular.io/guide/router-tutorial#using-angular-routes-in-a-single-page-application">Single Page Applications (SPA)</a>, only parts of the page are updated to represent the requested view for the user.
+
+The <a href="https://angular.io/guide/router-tutorial">Angular Router</a> enables users to declare routes and specify which component should be displayed on the screen if that route is requested by the application.
