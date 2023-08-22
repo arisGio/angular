@@ -94,3 +94,11 @@ if value is null or undefined the app does not crash
 
 - Angular uses parentheses syntax around the event name to define events in the template code.
 - You can bind to browser events and custom events
+
+# Search functionality
+
+- search through the data provided and display only the results that match the entered term
+
+# template reference variable
+
+- use a <a href="https://angular.io/guide/template-reference-variables">template reference variable</a> to get access to the HTML element as its value
